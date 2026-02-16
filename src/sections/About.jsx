@@ -41,16 +41,15 @@ export const About = () => {
                 </div>
 
                 <h2 className="text-4xl md:text-5xl font-bold leading-tight animate-fade-in animation-delay-100 text-secondary-foreground">
-                    Shaping ideas into code,
+                    Practicing shaping ideas into code,
                     <br/>
                     <span className="font-serif italic font-normal text-white"> one component at a time.</span>
                 </h2>
 
                 <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
                     <p>
-                        As a software engineering student, I focus on creating responsive, 
-                        accessible web interfaces while continuously improving my technical 
-                        and problem-solving skills.
+                        As a software engineering student, I focus on developing my skills 
+                        of creating responsive and accessible web interfaces.
                     </p>
                     <p>
                         I have experience of building responsive web applications 
@@ -63,8 +62,7 @@ export const About = () => {
                 </div>
                 <div className="glass rouned-2xl p-6 glow-border animate-fade-in animation-delay-300">
                     <p className="text-lg font-medium italic text-foreground">
-                        My goal is to build useful and easy-to-use digital solutions while continuously learning and improving my skills.
-                    </p>
+                        My goal is to gain strong hands-on experience by building real-world projects, refining my technical skills, and continuously learning modern tools and best practices in software development.                    </p>
                 </div>
             </div>
             {/* Highlights */}
