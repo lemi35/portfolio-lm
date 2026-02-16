@@ -7,7 +7,7 @@ const projects = [
         description: "A full-stack social media platform built with React, Node.js, Express, PostgreSQL, and Prisma. Implements authentication with protected routes, image uploads using Multer, topic-based post organization, and RESTful API architecture. Backend deployed on Render and frontend hosted on Cloudflare Pages.",
         link: "https://26a8c32a.purple-b.pages.dev/",
         img: "/Purple.jpeg",
-        tags: ["React", "Vite", "PostgreSQL", "Express", "Node.js", "Prisma"],
+        tags: ["TypeScript", "React", "Vite", "PostgreSQL", "Express", "Node.js", "Prisma"],
         github: "https://github.com/lemi35/purple",
     },
     {
