@@ -19,6 +19,14 @@ const projects = [
         github: "https://github.com/lemi35/pawsome",
     },
     {
+        title: "Chart-app",
+        description: "Chart App is an interactive, responsive Angular dashboard that visualizes data using Highcharts, featuring filtering, multiple chart types, and local storage persistence.",
+        link: "https://chart-app-lm.vercel.app/",
+        img: "/Chart-app.jpeg",
+        tags: ["Angular", "Highcharts", "Data Visualization"],
+        github: "https://github.com/lemi35/chart-app",
+    },
+    {
         title: "Caffiend",
         description: "Coffee consumption tracker app built with React and Firebase.",
         link: "https://caffiend-js.netlify.app/",
