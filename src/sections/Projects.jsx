@@ -4,7 +4,7 @@ import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
     {
         title: "Purple",
-        description: "A full-stack social media platform built with React, Node.js, Express, PostgreSQL, and Prisma. Implements authentication with protected routes, image uploads using Multer, topic-based post organization, and RESTful API architecture. Backend deployed on Render and frontend hosted on Cloudflare Pages.",
+        description: "A full-stack social media platform built with React, Node.js, Express, PostgreSQL, and Prisma. Implements authentication with protected routes, image uploads using Multer, topic-based post organization, and RESTful API architecture. Backend deployed on Render and frontend hosted on Cloudflare Pages, due to free-tier limitations, response times may be slow, so link to the app is not provided.",
         //link: "https://26a8c32a.purple-b.pages.dev/",
         img: "/Purple.jpeg",
         tags: ["TypeScript", "React", "Vite", "PostgreSQL", "Express", "Node.js", "Prisma"],
