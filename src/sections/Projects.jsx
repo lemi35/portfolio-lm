@@ -28,10 +28,10 @@ const projects = [
     },
     {
         title: "Caffiend",
-        description: "Coffee consumption tracker app built with React and Firebase.",
+        description: "Coffee consumption tracker app built with React and Firebase. Playwright testing of login and basic functionality",
         link: "https://caffiend-js.netlify.app/",
         img: "/caffiend.jpeg",
-        tags: ["React", "Vite", "Firebase", "Node.js"],
+        tags: ["React", "Vite", "Firebase", "Node.js", "Playwright"],
         github: "https://github.com/lemi35/caffiend",
     },
     {
