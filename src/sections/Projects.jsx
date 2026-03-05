@@ -2,9 +2,17 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 
 const projects = [
-     {
+    {
+        title: "Qualtrics survey and JS processing",
+        description: "Quick simple project to test Qualtrics, where free API unfortunately doesn't work, so I downloaded CSV and processed the data locally for visualization. No live demo available.",        
+        link: "",
+        img: "/survey.jpeg",
+        tags: ["JavaScript", "CSV Processing", "Node.js", "Qualtrics"],
+        github: "https://github.com/lemi35/survey-lm",
+    },
+    {
         title: "LMS-Hennigan ID School",
-        description: "This is the backend API with frontend in development for a Dance school website on the basis of LMS functionality. It provides all the core functionalities for managing users, courses, categories, layouts, notifications, orders, and analytics. Built with Node.js, Express, and MongoDB.",
+        description: "This is the backend API with frontend in development for a Dance school website on the basis of LMS functionality. It provides all the core functionalities for managing users, courses, categories, layouts, notifications, orders, and analytics. Built with Node.js, Express, and MongoDB. No live demo available.",
         link: "",
         img: "/hennigan.jpeg",
         tags: ["TypeScript", "Next.js", "Tailwind CSS", "MongoDB", "Express", "Node.js", "JWT Authentication"],
