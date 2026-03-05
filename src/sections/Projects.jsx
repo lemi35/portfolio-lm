@@ -2,6 +2,14 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 
 const projects = [
+     {
+        title: "LMS-Hennigan ID School",
+        description: "This is the backend API with frontend in development for a Dance school website on the basis of LMS functionality. It provides all the core functionalities for managing users, courses, categories, layouts, notifications, orders, and analytics. Built with Node.js, Express, and MongoDB.",
+        link: "",
+        img: "/hennigan.jpeg",
+        tags: ["TypeScript", "Next.js", "Tailwind CSS", "MongoDB", "Express", "Node.js", "JWT Authentication"],
+        github: "https://github.com/lemi35/LMS-Hennigan",
+    },
     {
         title: "Purple",
         description: "A full-stack social media platform built with React, Node.js, Express, PostgreSQL, and Prisma. Implements authentication with protected routes, image uploads using Multer, topic-based post organization, and RESTful API architecture. Backend deployed on Render and frontend hosted on Cloudflare Pages, due to free-tier limitations, response times may be slow, so link to the app is not provided.",
