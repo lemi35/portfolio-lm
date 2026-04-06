@@ -3,6 +3,25 @@ import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 
 const projects = [
   {
+    title: "SQL Data Warehouse Project",
+    description:
+      "A comprehensive SQL Data Warehouse solution for managing and analyzing large volumes of data. No live demo available.",
+    link: "",
+    img: "/dw.jpeg",
+    tags: [
+      "SQL",
+      "SQL Server",
+      "Data Warehousing",
+      "Star Schema",
+      "Data Modeling",
+      "Data Analysis",
+      "DDL",
+      "Data Transformation",
+      "Data Integration",
+    ],
+    github: "https://github.com/lemi35/sql-data-warehouse-project",
+  },
+  {
     title: "Fraud Detection Prediction App",
     description:
       "A simple Machine Learning web application built with Streamlit that predicts whether a financial transaction is fraudulent or legitimate. No live demo available.",
